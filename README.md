@@ -2,6 +2,8 @@
 
 This plugin allows you to have first person view in Studio.  
 
+# DO NOT REUPLOAD WITHOUT PERMISSION | 未经许可请勿转载
+
 **Usage:**  
 * Select a character in the object picker.  
 * Click the POV key (default: P) to toggle the POV.  
